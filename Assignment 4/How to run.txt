@@ -1,0 +1,2 @@
+1.Open cmd
+2.python -m streamlit run app.py 
